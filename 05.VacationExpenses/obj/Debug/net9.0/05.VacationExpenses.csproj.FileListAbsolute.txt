@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\05.VacationExpenses\bin\Debug\net9.0\05.VacationExpenses.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\05.VacationExpenses\bin\Debug\net9.0\05.VacationExpenses.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\05.VacationExpenses\bin\Debug\net9.0\05.VacationExpenses.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\05.VacationExpenses\bin\Debug\net9.0\05.VacationExpenses.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\05.VacationExpenses\bin\Debug\net9.0\05.VacationExpenses.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\05.VacationExpenses\obj\Debug\net9.0\05.VacationExpenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\05.VacationExpenses\obj\Debug\net9.0\05.VacationExpenses.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\05.VacationExpenses\obj\Debug\net9.0\05.VacationExpenses.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\05.VacationExpenses\obj\Debug\net9.0\05.VacationExpenses.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\05.VacationExpenses\obj\Debug\net9.0\05.VacationExpenses.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\05.VacationExpenses\obj\Debug\net9.0\05.VacationExpenses.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\05.VacationExpenses\obj\Debug\net9.0\refint\05.VacationExpenses.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\05.VacationExpenses\obj\Debug\net9.0\05.VacationExpenses.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\05.VacationExpenses\obj\Debug\net9.0\05.VacationExpenses.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\05.VacationExpenses\obj\Debug\net9.0\ref\05.VacationExpenses.dll

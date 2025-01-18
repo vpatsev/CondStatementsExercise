@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\06.ProductOfThreeNums\bin\Debug\net9.0\06.ProductOfThreeNums.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\06.ProductOfThreeNums\bin\Debug\net9.0\06.ProductOfThreeNums.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\06.ProductOfThreeNums\bin\Debug\net9.0\06.ProductOfThreeNums.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\06.ProductOfThreeNums\bin\Debug\net9.0\06.ProductOfThreeNums.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\06.ProductOfThreeNums\bin\Debug\net9.0\06.ProductOfThreeNums.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\06.ProductOfThreeNums\obj\Debug\net9.0\06.ProductOfThreeNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\06.ProductOfThreeNums\obj\Debug\net9.0\06.ProductOfThreeNums.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\06.ProductOfThreeNums\obj\Debug\net9.0\06.ProductOfThreeNums.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\06.ProductOfThreeNums\obj\Debug\net9.0\06.ProductOfThreeNums.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\06.ProductOfThreeNums\obj\Debug\net9.0\06.ProductOfThreeNums.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\06.ProductOfThreeNums\obj\Debug\net9.0\06.ProductOfThreeNums.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\06.ProductOfThreeNums\obj\Debug\net9.0\refint\06.ProductOfThreeNums.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\06.ProductOfThreeNums\obj\Debug\net9.0\06.ProductOfThreeNums.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\06.ProductOfThreeNums\obj\Debug\net9.0\06.ProductOfThreeNums.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\06.ProductOfThreeNums\obj\Debug\net9.0\ref\06.ProductOfThreeNums.dll
