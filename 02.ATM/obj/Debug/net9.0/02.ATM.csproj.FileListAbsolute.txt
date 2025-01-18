@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\02.ATM\bin\Debug\net9.0\02.ATM.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\02.ATM\bin\Debug\net9.0\02.ATM.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\02.ATM\bin\Debug\net9.0\02.ATM.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\02.ATM\bin\Debug\net9.0\02.ATM.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\02.ATM\bin\Debug\net9.0\02.ATM.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\02.ATM\obj\Debug\net9.0\02.ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\02.ATM\obj\Debug\net9.0\02.ATM.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\02.ATM\obj\Debug\net9.0\02.ATM.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\02.ATM\obj\Debug\net9.0\02.ATM.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\02.ATM\obj\Debug\net9.0\02.ATM.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\02.ATM\obj\Debug\net9.0\02.ATM.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\02.ATM\obj\Debug\net9.0\refint\02.ATM.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\02.ATM\obj\Debug\net9.0\02.ATM.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\02.ATM\obj\Debug\net9.0\02.ATM.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\02.ATM\obj\Debug\net9.0\ref\02.ATM.dll

@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\01.NumType\bin\Debug\net9.0\01.NumType.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\01.NumType\bin\Debug\net9.0\01.NumType.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\01.NumType\bin\Debug\net9.0\01.NumType.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\01.NumType\bin\Debug\net9.0\01.NumType.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\01.NumType\bin\Debug\net9.0\01.NumType.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\01.NumType\obj\Debug\net9.0\01.NumType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\01.NumType\obj\Debug\net9.0\01.NumType.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\01.NumType\obj\Debug\net9.0\01.NumType.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\01.NumType\obj\Debug\net9.0\01.NumType.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\01.NumType\obj\Debug\net9.0\01.NumType.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\01.NumType\obj\Debug\net9.0\01.NumType.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\01.NumType\obj\Debug\net9.0\refint\01.NumType.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\01.NumType\obj\Debug\net9.0\01.NumType.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\01.NumType\obj\Debug\net9.0\01.NumType.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\01.NumType\obj\Debug\net9.0\ref\01.NumType.dll

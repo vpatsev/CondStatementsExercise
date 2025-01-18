@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\03.BiggestOfFiveNums\bin\Debug\net9.0\03.BiggestOfFiveNums.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\03.BiggestOfFiveNums\bin\Debug\net9.0\03.BiggestOfFiveNums.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\03.BiggestOfFiveNums\bin\Debug\net9.0\03.BiggestOfFiveNums.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\03.BiggestOfFiveNums\bin\Debug\net9.0\03.BiggestOfFiveNums.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\03.BiggestOfFiveNums\bin\Debug\net9.0\03.BiggestOfFiveNums.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\03.BiggestOfFiveNums\obj\Debug\net9.0\03.BiggestOfFiveNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\03.BiggestOfFiveNums\obj\Debug\net9.0\03.BiggestOfFiveNums.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\03.BiggestOfFiveNums\obj\Debug\net9.0\03.BiggestOfFiveNums.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\03.BiggestOfFiveNums\obj\Debug\net9.0\03.BiggestOfFiveNums.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\03.BiggestOfFiveNums\obj\Debug\net9.0\03.BiggestOfFiveNums.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\03.BiggestOfFiveNums\obj\Debug\net9.0\03.BiggestOfFiveNums.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\03.BiggestOfFiveNums\obj\Debug\net9.0\refint\03.BiggestOfFiveNums.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\03.BiggestOfFiveNums\obj\Debug\net9.0\03.BiggestOfFiveNums.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\03.BiggestOfFiveNums\obj\Debug\net9.0\03.BiggestOfFiveNums.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\03.BiggestOfFiveNums\obj\Debug\net9.0\ref\03.BiggestOfFiveNums.dll
