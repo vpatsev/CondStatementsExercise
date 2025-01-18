@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\08.FruitOrVegitable\obj\Debug\net9.0\08.FruitOrVegitable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\08.FruitOrVegitable\obj\Debug\net9.0\08.FruitOrVegitable.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\08.FruitOrVegitable\obj\Debug\net9.0\08.FruitOrVegitable.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\08.FruitOrVegitable\obj\Debug\net9.0\08.FruitOrVegitable.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\08.FruitOrVegitable\obj\Debug\net9.0\08.FruitOrVegitable.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\08.FruitOrVegitable\bin\Debug\net9.0\08.FruitOrVegitable.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\08.FruitOrVegitable\bin\Debug\net9.0\08.FruitOrVegitable.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\08.FruitOrVegitable\bin\Debug\net9.0\08.FruitOrVegitable.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\08.FruitOrVegitable\bin\Debug\net9.0\08.FruitOrVegitable.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\08.FruitOrVegitable\bin\Debug\net9.0\08.FruitOrVegitable.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\08.FruitOrVegitable\obj\Debug\net9.0\08.FruitOrVegitable.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\08.FruitOrVegitable\obj\Debug\net9.0\refint\08.FruitOrVegitable.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\08.FruitOrVegitable\obj\Debug\net9.0\08.FruitOrVegitable.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\08.FruitOrVegitable\obj\Debug\net9.0\08.FruitOrVegitable.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\01.CondStatements\08.FruitOrVegitable\obj\Debug\net9.0\ref\08.FruitOrVegitable.dll
